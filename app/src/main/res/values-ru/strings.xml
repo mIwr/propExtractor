@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="general_total">Всего</string>
+    <string name="general_export">Экспортировать</string>
+    <string name="general_export_success">Данные экспортированы</string>
+</resources>
